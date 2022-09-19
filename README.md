@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Passive SAR**
 
-- 📫 How to reach me **miguelalbuquerque719@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/miguel-stattmiller-albuquerque" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="miguel-stattmiller-albuquerque" height="28" width="100" /></a>
