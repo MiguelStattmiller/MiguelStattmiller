@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Albuquerque</h1>
-<h3 align="center">A Naval engineer, working as an Officer in the Portuguese Navy.</h3>
+<h3 align="center">A Naval Electronic Engineer, working as an Officer in the Portuguese Navy.</h3>
 
 ***
 
