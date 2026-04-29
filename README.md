@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Miguel Albuquerque</h1>
-<h3 align="center">A Naval Electrical Engineer, working as an Officer in the Portuguese Navy.</h3>
+<h3 align="center">Portuguese Navy Officer (OF-1) | Electrical Engineer | Networks, Systems & Signal Processing.</h3>
 
 ***
 
-- 👯 I’m looking to collaborate on **Radar Projects**
+- Portuguese Navy Officer and certified Electrical Engineer with experience in operational leadership, IT systems, telecommunications, networks and cybersecurity.
+
+- My technical background combines naval engineering, SDR-based systems and signal processing, with hands-on experience in complex engineering projects and operational environments.
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/MiguelStattmiller?tab=repositories](https://github.com/MiguelStattmiller?tab=repositories)
 
-- 💬 Ask me about **Passive SAR**
+- 💬 Key Areas of Interest
+- Signal Processing & Telecommunications  
+- Software-Defined Radio (SDR)  
+- Passive Radar & SAR Systems  
+- Network Systems & Cybersecurity  
+- Data Analysis & Python (ongoing development)  
+- Maritime & Defence Systems  
 
 ***
 
