@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miguel Albuquerque</h1>
+<h1 align="center">Hi 👋, I'm Miguel Stattmiller Albuquerque</h1>
 <h3 align="center">Portuguese Navy Officer (OF-1) | Electrical Engineer | Networks, Systems & Signal Processing</h3>
 
 ***
