@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Albuquerque</h1>
-<h3 align="center">Portuguese Navy Officer (OF-1) | Electrical Engineer | Networks, Systems & Signal Processing.</h3>
+<h3 align="center">Portuguese Navy Officer (OF-1) | Electrical Engineer | Networks, Systems & Signal Processing</h3>
 
 ***
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MiguelStattmiller?tab=repositories](https://github.com/MiguelStattmiller?tab=repositories)
 
-- 💬 Key Areas of Interest
+## Key Areas of Interest
 - Signal Processing & Telecommunications  
 - Software-Defined Radio (SDR)  
 - Passive Radar & SAR Systems  
