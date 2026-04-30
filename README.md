@@ -10,10 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MiguelStattmiller?tab=repositories](https://github.com/MiguelStattmiller?tab=repositories)
 
-## Project Demonstration
-
-https://www.youtube.com/watch?v=VWCTOe3eWyw
-
 ## Key Areas of Interest
 - Signal Processing & Telecommunications  
 - Software-Defined Radio (SDR)  
