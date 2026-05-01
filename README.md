@@ -3,7 +3,7 @@
 
 ***
 
-- Portuguese Navy Officer and certified Electrical Engineer with experience in operational leadership, IT systems, telecommunications, networks and cybersecurity.
+- Portuguese Navy Officer and Electrical Engineer working at the intersection of systems, data analysis and signal processing, with experience in telecommunications, networks and cybersecurity. Proven record of leading teams and contributing to international missions.
 
 - My technical background combines naval engineering, SDR-based systems and signal processing, with hands-on experience in complex engineering projects and operational environments.
 
