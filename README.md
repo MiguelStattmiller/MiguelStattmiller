@@ -12,11 +12,10 @@
 
 ## Key Areas of Interest
 - Signal Processing & Telecommunications  
-- Software-Defined Radio (SDR)  
 - Passive Radar & SAR Systems  
 - Network Systems & Cybersecurity  
 - Data Analysis & Python (ongoing development)  
-- Maritime & Defence Systems  
+- Maritime & IT Systems  
 
 ***
 
