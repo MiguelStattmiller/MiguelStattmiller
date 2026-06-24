@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Stattmiller Albuquerque</h1>
-<h3 align="center">Portuguese Navy Officer (OF-1) | Electrical Engineer | Networks, Systems & Signal Processing</h3>
+<h3 align="center">Portuguese Navy Officer (OF-1) | Systems Integration | Networks | Cybersecurity</h3>
 
 ***
 
