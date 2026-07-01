@@ -11,15 +11,18 @@
    [https://github.com/MiguelStattmiller?tab=repositories](https://github.com/MiguelStattmiller?tab=repositories)
 
 ## Key Areas of Interest
-- Systems Engineering  
-- Systems Integration  
-- Technical Project Coordination
-- Cybersecurity  
-- Networks
-- Python
-- Matlab
-- Electrical Engineering
-- Telecommunications 
+
+| Area |
+|------|
+| Systems Engineering |
+| Systems Integration |
+| Technical Project Coordination |
+| Cybersecurity |
+| Networks |
+| Python |
+| MATLAB |
+| Electrical Engineering |
+| Telecommunications |
 
 ***
 
